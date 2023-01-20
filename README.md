@@ -9,6 +9,8 @@ FiveM Spoofer to unsubscribe from fivem's global ban. Developed in Python, sourc
 - [x] - [Remove Global Ban](https://github.com/itsmat/FiveMSpoofer) - Remove FiveM Global Ban.
 - [x] - [Cleaning](https://github.com/itsmat/FiveMSpoofer) - Cleaning.
 
+## Info
+![09.png](https://cdn.discordapp.com/attachments/1063770697140285441/1066081889833713815/image.png)
 ## ScreenShot
 ![home.png](https://cdn.discordapp.com/attachments/1052634072381411419/1063854541826703511/image.png)
 #### Before
