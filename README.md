@@ -5,6 +5,7 @@ FiveM Spoofer to unsubscribe from fivem's global ban. Developed in Python, sourc
 **If you want to buy the source code** (python script) **open a ticket in the [Discord Server](https://discord.gg/CzynytAxfh)**
 
 
+## Version 0.2
 ## Features
 - [x] - [Remove Global Ban](https://github.com/itsmat/FiveMSpoofer) - Remove FiveM Global Ban.
 - [x] - [Cleaning](https://github.com/itsmat/FiveMSpoofer) - Cleaning.
