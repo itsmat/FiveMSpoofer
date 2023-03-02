@@ -29,7 +29,7 @@ Run MatSpoofer.exe
 
 #### Second Method
 ```
-$ git clone https://github.com/itsmat/Discord-Emoji-Dumper.git
+$ git clone https://github.com/itsmat/FiveMSpoofer.git
 Run MatSpoofer.exe
 ```
 
